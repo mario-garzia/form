@@ -14,9 +14,7 @@ h1 {
 }
 .jumbotron {
 	background: url(../images/bg.jpg);
-	background-size: cover;
-	min-height: 650px;
-	padding-top: 10px;
+	
 	
 }
 .navbar-brand {
