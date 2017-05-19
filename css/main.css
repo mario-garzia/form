@@ -13,7 +13,7 @@ h1 {
     padding-top: 250px;   
 }
 .jumbotron {
-	background: url(../images/bg.jpg) no-repeat;
+	background: url(../images/bg.jpg);
 	background-size: cover;
 	min-height: 850px;
 	padding-top: 10px;
